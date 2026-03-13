@@ -263,5 +263,16 @@
 			"壁纸"
 		],
 		"stars": 4
+	},
+	{
+		"name": "种子地图查看器",
+		"logo": "https://sodamc.com/tools/Seed_Map.html#seed=-4913080814590982144&platform=java_1_21_9&dimension=overworld&x=2848&z=-840&zoom=0.806",
+		"url": "https://sodamc.com/tools/Seed_Map.html#seed=-4913080814590982144&platform=java_1_21_9&dimension=overworld&x=0&z=0&zoom=0.5",
+		"description": "一个免费的mc地图查看网站，可以查看出生点，生物群系，要塞等信息，路痴必备",
+		"tags": [
+			"mc",
+			"地图"
+		],
+		"stars": 3
 	}
 ]
