@@ -279,5 +279,19 @@
 		"url": "https://www.crzhong.cn/",
 		"description": "钱塘江上潮信来，今日方知我是我\n服务器的代理商，用的是typhco搭建的博客",
 		"stars": 3
+	},
+	{
+		"name": "yysuni",
+		"avatar": "https://www.yysuni.com/_next/image?url=%2Fimages%2Favatar.png&w=96&q=75",
+		"url": "https://www.yysuni.com/",
+		"description": "我用的主题就是大佬的，很厉害",
+		"stars": 3
+	},
+	{
+		"name": "lvy-neko",
+		"avatar": "https://lvyovo-wiki.tech/_next/image?url=%2Fimages%2Favatar.png&w=96&q=75",
+		"url": "https://lvyovo-wiki.tech/",
+		"description": "编程大佬，github放了很多学习笔记",
+		"stars": 3
 	}
 ]
