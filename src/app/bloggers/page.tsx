@@ -56,6 +56,10 @@ export default function Page() {
 		}
 	}
 
+	const handleReorder = (reorderedBloggers: Blogger[]) => {
+		setBloggers(reorderedBloggers)
+	}
+
 	const handleChoosePrivateKey = async (file: File) => {
 		try {
 			const text = await file.text()
@@ -133,7 +137,7 @@ export default function Page() {
 				}}
 			/>
 
-			<GridView bloggers={bloggers} isEditMode={isEditMode} onUpdate={handleUpdate} onDelete={handleDelete} />
+			<GridView bloggers={bloggers} isEditMode={isEditMode} onUpdate={handleUpdate} onDelete={handleDelete} onReorder={handleReorder} />
 
 			<motion.div initial={{ opacity: 0, scale: 0.6 }} animate={{ opacity: 1, scale: 1 }} className='absolute top-4 right-6 flex gap-3 max-sm:hidden'>
 				{isEditMode ? (

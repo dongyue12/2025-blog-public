@@ -134,7 +134,7 @@ export function BloggerCard({ blogger, isEditMode = false, onUpdate, onDelete }:
 								className={`rounded-full px-3 py-1 text-xs transition-colors ${
 									(localBlogger.status ?? 'recent') === status ? 'bg-brand text-white' : 'bg-gray-200 text-gray-600 hover:bg-gray-300'
 								}`}>
-								{status === 'recent' ? '近期更新' : '长期失联'}
+								{status === 'recent' ? '我的朋友' : '大佬博客'}
 							</button>
 						))}
 					</div>
