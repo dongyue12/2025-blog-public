@@ -232,5 +232,36 @@
 			"3D"
 		],
 		"stars": 3
+	},
+	{
+		"name": "中国科学技术大学测速网站",
+		"logo": "https://test.ustc.edu.cn/favicon.ico",
+		"url": "https://test.ustc.edu.cn/",
+		"description": "中国科学技术大学的册数网站，支持 IPv4 / IPv6 ，用来检测网速挺不错的",
+		"tags": [
+			"测速"
+		],
+		"stars": 3
+	},
+	{
+		"name": "致美化",
+		"logo": "https://dl.zhutix.net/2022/11/logo.svg",
+		"url": "https://zhutix.com/",
+		"description": "包括壁纸、电脑主题、鼠标主题、等资源，是一个很好的网站",
+		"tags": [
+			"图片"
+		],
+		"stars": 3
+	},
+	{
+		"name": "哲枫壁纸",
+		"logo": "https://haowallpaper.com/favicon.ico",
+		"url": "https://haowallpaper.com/",
+		"description": "一个免费的壁纸网站，提供多种的分类，还可以制作头像，白嫖怪的福利",
+		"tags": [
+			"图片",
+			"壁纸"
+		],
+		"stars": 4
 	}
 ]
