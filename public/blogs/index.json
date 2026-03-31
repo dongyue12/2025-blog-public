@@ -13,7 +13,9 @@
   {
     "slug": "2026-03-15-08",
     "title": "zoxide 使用记录",
-    "tags": [],
+    "tags": [
+      "终端"
+    ],
     "date": "2026-03-15T00:47",
     "summary": "zoxide一个好用的终端目录访问工具，可以快速进入常用的目录",
     "hidden": false,
