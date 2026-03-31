@@ -284,5 +284,15 @@
 			"图床"
 		],
 		"stars": 4
+	},
+	{
+		"name": "uu在线工具",
+		"logo": "https://uutool.cn/assets/images/favicon.jpg",
+		"url": "https://uutool.cn/",
+		"description": "这个网站有很多工具，例如：证件照生成，图像放大，抠图等工具很好用",
+		"tags": [
+			"工具"
+		],
+		"stars": 4
 	}
 ]
